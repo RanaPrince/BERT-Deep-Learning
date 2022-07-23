@@ -8,4 +8,6 @@ Here we're using the bert model to provide us pretrained embedding Vector for a 
 
 From the data displayed & the predictions made, we can get an idea how our model is making a good level of predictions for the reviews provided
 
-Readable Jupyter notebook , step by step work-flow has been described in itself
+of the scale on 1-5 the reviews are sorted to be positive only if the star rating goes above 3
+
+Readable Jupyter notebook , step by step work-flow has been described there in
